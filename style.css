@@ -5,10 +5,11 @@
 }
 
 :root {
-    --primary-color: #8ab4f8; /* Cor primária (azul claro) */
-    --secondary-color: #e8eaed; /* Cor secundária (cinza claro) */
-    --tertiary-color: #9aa0a6; /* Cor terciária (cinza médio) */
-    --bg-color: #202124; /* Cor de fundo (cinza escuro) */
+    --primary-color: #00f5d4;      /* Ciano Elétrico - Destaques principais */
+    --secondary-color: #f0f2f5;    /* Branco Névoa - Texto principal */
+    --tertiary-color: #5a4d75;     /* Lavanda Sombria - Detalhes e placeholders */
+    --bg-color: #1a102c;           /* Roxo Eclipse - Fundo */
+    --accent-hover-color: #9ae6b4; /* Verde Menta - Efeito hover */
 }
 
 body {
@@ -32,10 +33,12 @@ header {
 }
 
 header h1 {
-    font-size: 1.5rem; /* Tamanho da fonte */
+    font-size: 2rem; /* Tamanho da fonte */
     margin: 0; /* Remove a margem padrão */
-    font-weight: 500; /* Peso da fonte (médio) */
+    font-weight: 700; /* Peso da fonte (negrito) */
     white-space: nowrap; /* Impede a quebra de linha do texto */
+    color: white;
+    letter-spacing: 1.5px; /* Adiciona um leve espaçamento entre as letras */
 }
 
 div input {
@@ -79,9 +82,9 @@ div input:focus {
 }
 
 .search-button:hover {
-    background-color: var(--primary-color); /* Muda a cor de fundo ao passar o mouse */
+    background-color: var(--accent-hover-color); /* Muda a cor de fundo ao passar o mouse */
     color: var(--bg-color); /* Muda a cor do texto ao passar o mouse */
-    box-shadow: 0 0 0 0.1rem var(--primary-color); /* Adiciona uma sombra de caixa */
+    box-shadow: 0 0 0 0.1rem var(--accent-hover-color); /* Adiciona uma sombra de caixa */
 }
 
 .search-button:active {
@@ -116,6 +119,7 @@ main {
     overflow: hidden; /* Garante que nada saia dos cantos arredondados */
     transition: transform 0.2s ease-in-out;
     text-decoration: none;
+    cursor: pointer;
 }
 
 .card:hover {
@@ -142,6 +146,97 @@ main {
     transform: translateY(0); /* Desliza para dentro do card */
 }
 
+/* --- Estilos da Tela de Detalhes --- */
+
+.detail-view {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.85);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+    z-index: 100;
+    padding: 1rem;
+}
+
+.detail-view.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.detail-content {
+    display: flex;
+    gap: 2rem;
+    background-color: var(--bg-color);
+    padding: 2rem;
+    border-radius: 12px;
+    max-width: 900px;
+    width: 100%;
+    position: relative;
+    border: 1px solid var(--tertiary-color);
+}
+
+.close-detail-button {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: none;
+    border: none;
+    color: var(--secondary-color);
+    font-size: 2rem;
+    cursor: pointer;
+    line-height: 1;
+}
+
+.detail-image {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.detail-info h2 {
+    margin-top: 0;
+    color: var(--primary-color);
+}
+
+.detail-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 1rem 0;
+}
+
+.detail-tags span {
+    background-color: var(--tertiary-color);
+    padding: 0.25rem 0.75rem;
+    border-radius: 1rem;
+    font-size: 0.9rem;
+}
+
+.detail-link-button {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.75rem 1.5rem;
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 500;
+    transition: transform 0.2s ease;
+}
+
+.detail-link-button:hover {
+    transform: scale(1.05);
+    background-color: var(--accent-hover-color);
+}
+
 .footer {
     position: absolute; /* Posicionamento absoluto em relação ao elemento pai posicionado */
     bottom: 0; /* Alinha na parte inferior */
@@ -149,8 +244,8 @@ main {
     width: 100%; /* Largura total */
     color: var(--tertiary-color); /* Cor do texto */
     background-color: var(--bg-color); /* Cor de fundo */
-    padding: 15px 20px; /* Espaçamento interno */
-    border-top: 1px solid #3c4043; /* Borda superior */
+    padding: 1rem 1.5rem; /* Espaçamento interno */
+    border-top: 1px solid var(--tertiary-color); /* Borda superior */
     font-size: 0.8rem; /* Tamanho da fonte */
 }
 
@@ -174,7 +269,7 @@ main {
 }
 
 .footer-links a:hover {
-    color: var(--accent-color); /* Muda a cor do link ao passar o mouse (variável não definida) */
+    color: var(--primary-color); /* Muda a cor do link ao passar o mouse */
 }
 
 @media (max-width: 768px) {
@@ -199,6 +294,17 @@ main {
 
     article:hover { /* Estilos para o article em telas menores */
         transform: none; /* Remove o efeito de escala ao passar o mouse */
+    }
+
+    .detail-content {
+        flex-direction: column;
+        align-items: center;
+        max-height: 80vh;
+        overflow-y: auto;
+    }
+    .detail-image {
+        width: 200px;
+        height: 200px;
     }
 }
 
