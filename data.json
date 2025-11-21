@@ -1,0 +1,448 @@
+[
+  {
+    "nome": "Persona 3",
+    "descrição": "Persona 3 é o quarto episódio da série de RPGs Persona, spin-off de Megami Tensei.",
+    "ano": 2007,
+    "link": "https://www.google.com/search?q=persona+3",
+    "imagem": "https://www.giantbomb.com/a/uploads/scale_medium/20/201266/3536566-0067389944-co1n1.jpg",
+    "tags": [
+      "JRPG",
+      "Simulação",
+      "Fantasia",
+      "Dungeon Crawler"
+    ]
+  },
+  {
+    "nome": "Smash Bros Ultimate",
+    "descrição": "Super Smash Bros. Ultimate, chamado no Japão de Super Smash Bros. Special, é um jogo eletrônico de luta, desenvolvido pela Bandai Namco Studios e Sora Ltd. e publicado pela Nintendo.",
+    "ano": 2018,
+    "link": "https://www.google.com/search?q=smash+bros+ultimate",
+    "imagem": "https://m.media-amazon.com/images/I/715OVTqaTyL.jpg",
+    "tags": [
+      "Luta",
+      "Plataforma",
+      "Multiplayer",
+      "Ação"
+    ]
+  },
+  {
+    "nome": "Pokémon Omega Ruby",
+    "descrição": "Pokémon Omega Ruby e Alpha Sapphire são dois videogames lançados para Nintendo 3DS. Eles são remakes dos jogos de 2002, Pokémon Ruby e Sapphire, do Game Boy Advance.",
+    "ano": 2014,
+    "link": "https://www.google.com/search?q=pokemon+omega+ruby",
+    "imagem": "https://www.gamespot.com/a/uploads/scale_tiny/1197/11970954/2525352-pok%C3%87mon%20omega%20ruby%20packaging%20final.jpg",
+    "tags": [
+      "RPG",
+      "Monster-Taming",
+      "Aventura",
+      "Estratégia"
+    ]
+  },
+  {
+    "nome": "The Legend of Zelda: Breath of the Wild",
+    "descrição": "The Legend of Zelda: Breath of the Wild é um jogo eletrônico de ação-aventura desenvolvido pela Nintendo Entertainment Planning & Development e publicado pela Nintendo.",
+    "ano": 2017,
+    "link": "https://www.google.com/search?q=zelda+breath+of+the+wild",
+    "imagem": "https://m.media-amazon.com/images/I/81KGsbq8ekL._AC_UF1000,1000_QL80_.jpg",
+    "tags": [
+      "Action-RPG",
+      "Open-World",
+      "Aventura",
+      "Exploração"
+    ]
+  },
+  {
+    "nome": "Kid Icarus: Uprising",
+    "descrição": "Kid Icarus: Uprising, conhecido no Japão como Shin Hikari Shinwa: Parutena no Kagami, é um jogo para o Nintendo 3DS desenvolvido pelo Sora Ltd. e publicado pela Nintendo.",
+    "ano": 2012,
+    "link": "https://www.google.com/search?q=kid+icarus+uprising",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/9/97/Kid_Icarus-Uprising_logo.jpg",
+    "tags": [
+      "Ação",
+      "Shooter",
+      "On-Rails Shooter",
+      "Mitologia"
+    ]
+  },
+  {
+    "nome": "Digimon Story: Cyber Sleuth",
+    "descrição": "Digimon Story: Cyber Sleuth é um jogo eletrônico de RPG desenvolvido pela Media.Vision e publicado pela Bandai Namco Entertainment",
+    "ano": 2015,
+    "link": "https://www.google.com/search?q=digimon+cyber+sleuth",
+    "imagem": "https://m.media-amazon.com/images/I/81vDNfFqOFL._AC_UF1000,1000_QL80_.jpg",
+    "tags": [
+      "JRPG",
+      "Monster-Taming",
+      "Sci-Fi",
+      "Turn-Based"
+    ]
+  },
+  {
+    "nome": "Shin Megami Tensei IV",
+    "descrição": "Shin Megami Tensei IV é um jogo eletrônico de RPG desenvolvido pela Atlus para o Nintendo 3DS. É um jogo da série Shin Megami Tensei, que faz parte da franquia Megami Tensei.",
+    "ano": 2013,
+    "link": "https://www.google.com/search?q=shin+megami+tensei+4",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/f/f0/Shin_Megami_Tensei_IV.jpg",
+    "tags": [
+      "JRPG",
+      "Fantasia",
+      "Dungeon Crawler",
+      "Pós-apocalíptico"
+    ]
+  },
+  {
+    "nome": "Digimon World Re:Digitize",
+    "descrição": "Digimon World Re:Digitize é um jogo de video game de 2012 para PlayStation Portable desenvolvido pela tri-Crescendo e publicado pela Bandai Namco Games.",
+    "ano": 2013,
+    "link": "https://www.google.com/search?q=digimon+world+re+digitize",
+    "imagem": "https://i.ytimg.com/vi/53thhr8niq8/maxresdefault.jpg",
+    "tags": [
+      "RPG",
+      "Monster-Taming",
+      "Simulação",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "nome": "Pokémon Heart Gold",
+    "descrição": "Pokémon HeartGold Version e Pokémon SoulSilver Version são jogos eletrônicos da série Pokémon, desenvolvidos pela Game Freak e publicados pela Nintendo para o portátil Nintendo DS",
+    "ano": 2009,
+    "link": "https://www.google.com/search?q=digimon+world+re+digitize",
+    "imagem": "https://m.media-amazon.com/images/I/81ESDoG1PVL._AC_UF1000,1000_QL80_.jpg",
+    "tags": [
+      "RPG",
+      "Monster-Taming",
+      "Aventura",
+      "Remake"
+    ]
+  },
+  {
+    "nome": "Elden Ring",
+    "descrição": "Um RPG de ação em mundo aberto conhecido pela sua dificuldade, exploração vasta e design de mundo intrincado da FromSoftware.",
+    "ano": 2022,
+    "link": "https://pt.wikipedia.org/wiki/Elden_Ring",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/0/0d/Elden_Ring_capa.jpg/330px-Elden_Ring_capa.jpg",
+    "tags": [
+      "Action-RPG",
+      "Open-World",
+      "Soulslike",
+      "Fantasia",
+      "Desafio"
+    ]
+  },
+  {
+    "nome": "Final Fantasy VII Remake",
+    "descrição": "Uma reimaginação do RPG clássico, com combate em tempo real e gráficos de alta definição.",
+    "ano": 2020,
+    "link": "https://pt.wikipedia.org/wiki/Final_Fantasy_VII_Remake",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/c/c2/Final_Fantasy_VII_Box_Art.jpg",
+    "tags": [
+      "JRPG",
+      "Action",
+      "Fantasia",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "nome": "Animal Crossing: New Horizons",
+    "descrição": "Jogo de simulação de vida onde os jogadores constroem uma comunidade em uma ilha deserta.",
+    "ano": 2020,
+    "link": "https://pt.wikipedia.org/wiki/Animal_Crossing:_New_Horizons",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/1/1f/Animal_Crossing_New_Horizons.jpg",
+    "tags": [
+      "Simulação",
+      "Casual",
+      "Vida",
+      "Social"
+    ]
+  },
+  {
+    "nome": "Metroid Dread",
+    "descrição": "A mais recente aventura 2D de Samus Aran, focada em exploração não linear e combate intenso.",
+    "ano": 2021,
+    "link": "https://pt.wikipedia.org/wiki/Metroid_Dread",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/50/Metroid-Dread-capa.jpeg",
+    "tags": [
+      "Metroidvania",
+      "Aventura",
+      "Plataforma",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "nome": "Dragon Quest XI S: Echoes of an Elusive Age",
+    "descrição": "Um JRPG tradicional baseado em turnos com foco na jornada épica de um herói destinado a salvar o mundo.",
+    "ano": 2017,
+    "link": "https://pt.wikipedia.org/wiki/Dragon_Quest_XI",
+    "imagem": "https://m.media-amazon.com/images/I/71h7LlFFXqL.jpg",
+    "tags": [
+      "JRPG",
+      "Turn-Based",
+      "Fantasia",
+      "Aventura"
+    ]
+  },
+  {
+    "nome": "Stardew Valley",
+    "descrição": "Jogo indie de simulação de fazenda e RPG, onde o jogador herda uma fazenda e reconstrói a comunidade.",
+    "ano": 2016,
+    "link": "https://pt.wikipedia.org/wiki/Stardew_Valley",
+    "imagem": "https://m.media-amazon.com/images/I/81Fq4GFO7cL._AC_UF1000,1000_QL80_.jpg",
+    "tags": [
+      "Simulação",
+      "RPG",
+      "Indie",
+      "Vida"
+    ]
+  },
+  {
+    "nome": "Hollow Knight",
+    "descrição": "Um aclamado Metroidvania indie com arte desenhada à mão, combate afiado e exploração profunda.",
+    "ano": 2017,
+    "link": "https://pt.wikipedia.org/wiki/Hollow_Knight",
+    "imagem": "https://cdn.wikimg.net/en/hkwiki/images/a/a1/HK_first_cover_art.png",
+    "tags": [
+      "Metroidvania",
+      "Plataforma",
+      "Indie",
+      "Aventura"
+    ]
+  },
+  {
+    "nome": "Genshin Impact",
+    "descrição": "RPG de ação e mundo aberto com elementos de gacha, conhecido por seu vasto mapa e combate elemental.",
+    "ano": 2020,
+    "link": "https://pt.wikipedia.org/wiki/Genshin_Impact",
+    "imagem": "https://m.media-amazon.com/images/I/71fQRh4Y3dL._AC_UF1000,1000_QL80_.jpg",
+    "tags": [
+      "Action-RPG",
+      "Open-World",
+      "Gacha",
+      "Multiplayer"
+    ]
+  },
+  {
+    "nome": "Xenoblade Chronicles 3",
+    "descrição": "Um épico JRPG com vastos campos de batalha, focado em temas de guerra, tempo e ciclos de vida.",
+    "ano": 2022,
+    "link": "https://pt.wikipedia.org/wiki/Xenoblade_Chronicles_3",
+    "imagem": "https://m.media-amazon.com/images/I/81gj7E+V8GL.jpg",
+    "tags": [
+      "JRPG",
+      "Sci-Fi",
+      "Fantasia",
+      "Exploração"
+    ]
+  },
+  {
+    "nome": "Splatoon 3",
+    "descrição": "Shooter de terceira pessoa focado em tinta, com modos competitivos de preenchimento de mapa e PVE cooperativo.",
+    "ano": 2022,
+    "link": "https://pt.wikipedia.org/wiki/Splatoon_3",
+    "imagem": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d7/Splatoon_3_front_cover_NA.png/640px-Splatoon_3_front_cover_NA.png",
+    "tags": [
+      "Shooter",
+      "Multiplayer",
+      "Ação",
+      "Competitivo"
+    ]
+  },
+  {
+    "nome": "Octopath Traveler",
+    "descrição": "JRPG com gráficos 'HD-2D' que combinam pixel art com efeitos 3D, apresentando oito histórias interconectadas.",
+    "ano": 2018,
+    "link": "https://pt.wikipedia.org/wiki/Octopath_Traveler",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/d/de/Octopath_Traveler_capa.png",
+    "tags": [
+      "JRPG",
+      "Turn-Based",
+      "Pixel-Art",
+      "Fantasia"
+    ]
+  },
+  {
+    "nome": "Fire Emblem: Three Houses",
+    "descrição": "RPG de Estratégia Tática que combina combate em grade com elementos de simulação escolar e social.",
+    "ano": 2019,
+    "link": "https://pt.wikipedia.org/wiki/Fire_Emblem:_Three_Houses",
+    "imagem": "https://cdn.fireemblemwiki.org/thumb/e/e2/Ba_america_fe16.jpg/1200px-Ba_america_fe16.jpg",
+    "tags": [
+      "Strategy-RPG",
+      "Tática",
+      "Fantasia",
+      "Simulação"
+    ]
+  },
+  {
+    "nome": "Monster Hunter Rise",
+    "descrição": "Um RPG de ação focado na caça cooperativa de monstros gigantes, com movimentação vertical aprimorada.",
+    "ano": 2021,
+    "link": "https://pt.wikipedia.org/wiki/Monster_Hunter_Rise",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/60/Monster_Hunter_Rise_capa.jpg",
+    "tags": [
+      "Action-RPG",
+      "Caça",
+      "Multiplayer",
+      "Ação"
+    ]
+  },
+  {
+    "nome": "Sea of Stars",
+    "descrição": "Um RPG baseado em turnos inspirado nos clássicos dos anos 90, com mecânicas modernas e combate dinâmico.",
+    "ano": 2023,
+    "link": "https://pt.wikipedia.org/wiki/Sea_of_Stars",
+    "imagem": "https://p2.trrsf.com/image/fget/cf/1200/1600/middle/images.terra.com/2023/09/05/sea-of-stars-1k200idq0eecw.jpg",
+    "tags": [
+      "RPG",
+      "Indie",
+      "Turn-Based",
+      "Fantasia",
+      "Pixel-Art"
+    ]
+  },
+  {
+    "nome": "Super Mario Odyssey",
+    "descrição": "Um aclamado jogo de plataforma 3D que utiliza a mecânica de captura de objetos e inimigos para a exploração.",
+    "ano": 2017,
+    "link": "https://pt.wikipedia.org/wiki/Super_Mario_Odyssey",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/8/8d/Super_Mario_Odyssey.jpg",
+    "tags": [
+      "Plataforma",
+      "Aventura",
+      "Casual",
+      "Colecionáveis"
+    ]
+  },
+  {
+    "nome": "NieR: Automata",
+    "descrição": "Action RPG filosófico em um mundo pós-apocalíptico dominado por robôs. Conhecido pela narrativa profunda.",
+    "ano": 2017,
+    "link": "https://pt.wikipedia.org/wiki/Nier:_Automata",
+    "imagem": "https://i.ebayimg.com/00/s/MTAwMFg2NjM=/z/xlAAAOSwEaBaA2CX/$_57.JPG?set_id=8800005007",
+    "tags": [
+      "Action-RPG",
+      "Hack and Slash",
+      "Sci-Fi",
+      "Filosófico"
+    ]
+  },
+  {
+    "nome": "Hades",
+    "descrição": "Um roguelike de ação isométrico focado em narrativa e no combate rápido, ambientado na mitologia grega.",
+    "ano": 2020,
+    "link": "https://pt.wikipedia.org/wiki/Hades_(jogo_eletrônico)",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/c/cc/Hades_cover_art.jpg",
+    "tags": [
+      "Roguelike",
+      "Ação",
+      "Indie",
+      "Mitologia",
+      "Exploração"
+    ]
+  },
+  {
+    "nome": "Terraria",
+    "descrição": "Sandbox de sobrevivência 2D focado em construção, mineração e combate com chefes em mundos gerados proceduralmente.",
+    "ano": 2011,
+    "link": "https://pt.wikipedia.org/wiki/Terraria",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/1/1a/Terraria_Steam_artwork.jpg",
+    "tags": [
+      "Sandbox",
+      "Sobrevivência",
+      "Exploração",
+      "Plataforma"
+    ]
+  },
+  {
+    "nome": "Doom Eternal",
+    "descrição": "FPS ultra-rápido focado em 'push-forward combat', onde o jogador é incentivado a agressão para recuperar recursos.",
+    "ano": 2020,
+    "link": "https://pt.wikipedia.org/wiki/Doom_Eternal",
+    "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/ERNPc4gFqeRDG1tYQIfOKQtM.png",
+    "tags": [
+      "FPS",
+      "Ação",
+      "Sci-Fi",
+      "Combate Rápido"
+    ]
+  },
+  {
+    "nome": "Cyberpunk 2077",
+    "descrição": "RPG de ação em mundo aberto massivo ambientado na distópica Night City, focado em escolhas narrativas e customização.",
+    "ano": 2020,
+    "link": "https://pt.wikipedia.org/wiki/Cyberpunk_2077",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg",
+    "tags": [
+      "RPG",
+      "Open-World",
+      "Sci-Fi",
+      "Ação",
+      "Distopia"
+    ]
+  },
+  {
+    "nome": "Bayonetta 3",
+    "descrição": "Jogo de ação hack and slash com foco em combate fluido, espetacular e mecânicas de invocação de demônios.",
+    "ano": 2022,
+    "link": "https://pt.wikipedia.org/wiki/Bayonetta_3",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/29/Bayonetta_3_capa.jpg",
+    "tags": [
+      "Hack and Slash",
+      "Ação",
+      "Fantasia",
+      "Combate"
+    ]
+  },
+  {
+    "nome": "Tales of Arise",
+    "descrição": "Action JRPG com um sistema de combate refeito e uma história sobre a luta de classes e a libertação de dois mundos.",
+    "ano": 2021,
+    "link": "https://pt.wikipedia.org/wiki/Tales_of_Arise",
+    "imagem": "https://image.api.playstation.com/vulcan/img/rnd/202107/2321/AEsEfC42YwowOdvJ1GXZqhhS.png",
+    "tags": [
+      "JRPG",
+      "Action-RPG",
+      "Fantasia",
+      "História"
+    ]
+  },
+  {
+    "nome": "Cult of the Lamb",
+    "descrição": "Combina roguelite de ação com simulação de gerenciamento de culto, onde o jogador deve satisfazer seus seguidores.",
+    "ano": 2022,
+    "link": "https://pt.wikipedia.org/wiki/Cult_of_the_Lamb",
+    "imagem": "https://m.media-amazon.com/images/I/812PrQJ8wiL.jpg",
+    "tags": [
+      "Roguelite",
+      "Simulação",
+      "Indie",
+      "Estratégia"
+    ]
+  },
+  {
+    "nome": "Slime Rancher 2",
+    "descrição": "Jogo de simulação em primeira pessoa focado em exploração e coleta de slimes adoráveis em um novo mundo vibrante.",
+    "ano": 2022,
+    "link": "https://pt.wikipedia.org/wiki/Slime_Rancher_2",
+    "imagem": "https://cdn.cloudflare.steamstatic.com/steam/apps/1657630/header.jpg?t=1699559296",
+    "tags": [
+      "Simulação",
+      "Exploração",
+      "Sandbox",
+      "Indie"
+    ]
+  },
+  {
+    "nome": "Temtem",
+    "descrição": "Um RPG multiplayer massivo focado em captura e treinamento de criaturas (Tems), similar a Pokémon.",
+    "ano": 2020,
+    "link": "https://pt.wikipedia.org/wiki/Temtem",
+    "imagem": "https://image.api.playstation.com/vulcan/img/rnd/202112/1617/C52StOGQW0xqZelMISoU3Jwk.png",
+    "tags": [
+      "MMO",
+      "Monster-Taming",
+      "RPG",
+      "Multiplayer"
+    ]
+  }
+]
